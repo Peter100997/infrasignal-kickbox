@@ -158,140 +158,375 @@ body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:
 .roadmap::before{content:'';position:absolute;top:18px;left:10%;right:10%;height:2px;background:var(--border2)}
 .rm-phase{text-align:center;padding:0 8px;position:relative;z-index:1}
 .rm-dot{width:36px;height:36px;border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 12px;font-size:13px;font-weight:600}
-.rm-dot.done{background:var(--green)ØÛÛÜÚ]_BKYÝÝÞØXÚÙÜÝ[\KYÛÛ
-NØÛÛÜÚ]NØÞ\ÚYÝÎ
-\KYÛÛ[ZY
-_BKYÝÛÛÛØXÚÙÜÝ[Ú]NØÜ\ÛÛY\KYÛÛ
-NØÛÛÜ\KYÛÛ
-_BKYÝ]\ØXÚÙÜÝ[Ú]NØÜ\ÛÛY\KXÜ\NØÛÛÜ\KZ[Í
-_BK[X[ÙÛY[Z[N\K\Ù\YNÙÛ\Ú^NMÙÛ]ÙZYÚÛX\Ú[XÝÛNBK\ÝXÙÛ\Ú^NL\ØÛÛÜ\KZ[Í
-NÛ[KZZYÚKÝÚ]K\ÜXÙNK[[_BKXYÙ^ÙÛY[Z[N\K[[ÛÊNÙÛ\Ú^N\ÛX\Ú[]ÜÙ\Ü^N[[KXØÚÎÜY[ÎØÜ\\Y]\ÎBÊ\Ý\Ú\ÈØ\È
-Â\ÜY[ÎNØÜ\[YÜÛÛY[Ü\[ØXÚÙÜÝ[Ú]NØÜ\\ÛÛY\KXÜ\NØÜ\\Y]\ÎÛX\Ú[XÝÛNB\Ü]XØ[ØÜ\[YXÛÛÜ\K\Y
-_B\[\Ü[ØÜ\[YXÛÛÜ\KYÛÛ
-_B\XÙ^ØÜ\[YXÛÛÜÌØYMB\[X[ÙÛY[Z[N\K[[ÛÊNÙÛ\Ú^N\Û]\\ÜXÚ[ÎY[NÝ^][ÙÜN\\Ø\ÙNÛX\Ú[XÝÛNB\Ü]XØ[\[X[ØÛÛÜ\K\Y
-_B\[\Ü[\[X[ØÛÛÜ\KYÛÛ
-_B\XÙH\[X[ØÛÛÜÌØYMB\]^ÙÛ\Ú^NLÜØÛÛÜ\KZ[ÊNÙÛ]ÙZYÚLÛX\Ú[XÝÛNB\]\ÝÙÛ\Ú^NLØÛÛÜ\KZ[ÌÊ_BÊZ\ØÈ
-Â]Y\ØÜ\ÛNØÜ\]Ü\ÛÛY\KXÜ\NÛX\Ú[ÌB][Ý^ÙÛY[Z[N\K\Ù\YNÙÛ\Ú^NNÙÛ\Ý[N][XÎØÛÛÜ\KZ[ÌNÛ[KZZYÚKÜY[ÎØÜ\[YÜÛÛY\KYÛÛ
-NØXÚÙÜÝ[\K\\\NØÜ\\Y]\Î
-
-BÛÝÝ^ÙÛY[Z[N\K[[ÛÊNÙÛ\Ú^NLØÛÛÜ\KZ[Í
-NÛX\Ú[]ÜB[ÛX[Û\Ý\Ý[NÛ_B[ÛX[^ÜY[ÎÙÛ\Ú^NLÜØÛÛÜ\KZ[ÌÊNÙ\Ü^N^ÙØ\B[ÛX[NYÜ^ØÛÛ[ø $ÉÎØÛÛÜ\KYÛÛ
-NÙ^\Ú[ÎB[Ù\Ü^N[[KXØÚÎÙÛY[Z[N\K[[ÛÊNÙÛ\Ú^N\ÜY[ÎÜ\ØÜ\\Y]\ÎÛ]\\ÜXÚ[Î
-Y[_B[YÛÛØXÚÙÜÝ[\KYÛÛ[YÚ
-NØÛÛÜ\KYÛÛ
-NØÜ\\ÛÛYØJN
-LÍLK_B[XY^ØXÚÙÜÝ[\KXYK[YÚ
-NØÛÛÜ\KXYJNØÜ\\ÛÛYØJ
-NLMJ_B[\YØXÚÙÜÝ[\K\Y[YÚ
-NØÛÛÜ\K\Y
-_B[YÜY[ØXÚÙÜÝ[\KYÜY[[YÚ
-NØÛÛÜ\KYÜY[_BÝÛÞÙÛ]ÙZYÚØÛÛÜ\KZ[Ê_B[ÛË\Û^ÙÛY[Z[N\K[[ÛÊNÙÛ\Ú^NL\ØÛÛÜ\KZ[Í
-_B^YÛÛØÛÛÜ\KYÛÛ
-_B^\YØÛÛÜ\K\Y
-_BYKZ[Ø[[X][ÛYR[ÈX\ÙHÝBÙ^Y[Y\ÈYR[ÙÛ^ÛÜXÚ]NÝ[ÙÜN[Û]VJL
-_]ÞÛÜXÚ]NNÝ[ÙÜN[Û]VJ
-__BYYXJX^]ÚYM
-^ËÌËÍXÚ[ËYÜYØYX\ÙÜY][\]KXÛÛ[[ÎYY_BYYXJX^]ÚY
-^ËÌÌËÍÜÚYKÜÚYK\XÚ[ËYÜYØYX\ÙÜY][\]KXÛÛ[[ÎY_BÂÛÛÝÕQÑTÈHÂÈYY[NH[YNYÞÝX^ÜHÛÎYKÈYYH[N[YNYHÞÝX[Y]HÛÎYHKÈYÛÛ[NÈ[YNÛÛÞÝXØØ[HÛÎÛÛKÈYXÚÈ[N
-[YNØØ[HÝX][ÚÛÎXÚÈKNÂËÈ8¥ 8¥ QÖ8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ [Ý[ÛYÞ
+.rm-dot.done{background:var(--green);color:white}
+.rm-dot.now{background:var(--gold);color:white;box-shadow:0 0 0 4px var(--gold-mid)}
+.rm-dot.soon{background:white;border:2px solid var(--gold);color:var(--gold)}
+.rm-dot.later{background:white;border:2px solid var(--border);color:var(--ink4)}
+.rm-label{font-family:var(--serif);font-size:14px;font-weight:600;margin-bottom:4px}
+.rm-sub{font-size:11px;color:var(--ink4);line-height:1.4;white-space:pre-line}
+.rm-badge{font-family:var(--mono);font-size:9px;margin-top:6px;display:inline-block;padding:2px 8px;border-radius:2px}
 
-HÂ]\
-]Û\ÜÓ[YOHYKZ[ËÊØ[HÝ][Y[
-ßB]Û\ÜÓ[YOHÙXÝ[Û]Û\ÜÓ[YOHÙXÝ[ÛZXY\]Û\ÜÓ[YOHÙXÝ[Û]]H\ÈØ[OÙ]Ü[Û\ÜÓ[YOHÙXÝ[Û]YÈYË\YØ[HÈÛÛ][Û]ÜÜ[Ù]]Û\ÜÓ[YOHÜÚYH]]Û\ÜÓ[YOH][ÝH[\ÝXÝ\HÔÈ[ZHÈYÚY\[Z]\XXÚ[[ÜX][ÛØ\Þ[[Y]Y[[][HX\Ý][H[Z\Ú[ÜËTP[ÚX\ÜÈ[Ù]]Ù\\Ú[YÛY[Y\0ï\ZHÛÜÝ[XÚYÙH]ÜY[\Z[Ù]]Û\ÜÓ[YOHÌÝ[O^ÞÛX\Ú[Ü_OÖÂÛø $ÍHX[Y[\XÚ\ÚX]YØ[ÈÔU\]HKÛÒÊÈZ\ÚÛÜÝ[°ï\Z[
-È[[ÙÚXÈ
-ÈRHKÛHX[YÙ\[H[][[[KQÔU[]\ÙHKÛ°æLÈÛË\ÈZ[ÛÝ0éYÙ\ÛÛ\]]Ü[]\ÙHÝZKKX\
-ÈO
-]Ù^O^ÜËHÛ\ÜÓ[YOHØ\\ÛHØ\XXØÙ[]Û\ÜÓ[YOHØ\[[HÝ[O^ÞÙÛÚ^N_OÜËOÙ]]Û\ÜÓ[YOHØ\[[K[X[ÜËOÙ]Ù]
-J_BÙ]Ù]]]Û\ÜÓ[YOHØ\Ý[O^ÞÚZYÚL	H_O]Û\ÜÓ[YOHØ\[X[Z[Ù]\]HX]^Ù]ÖÂÝÚÎÔ\ÙX\ÚX[\ÈZ[ÙZ[XÚZ]P[ÚX\Ú[ÈÙYÙ[Y\QÔÈ\N0éÛXÚÙ]LYZ]\\ÝZHX[Y[\XÚ\ÚHÛÜÝ]Ù]]Ù\ÝÜZ[HKÝÚÎ[ÚØ]Ü[Z[ÙZ[HÝZÝ\Y\[ÔU\ÛZXÚHZH[ØØ][Û]Y]ÜÈ\N[Û]XÚÙ]Z[H\ÛZXÚØ\Ú\È°ïHÝXÜ[X[[[ØÚZY[Ù[KÝÚÎXÙ[Y[YÙ[ÈZ[X[Y[H[Z\Ú[ËSX\Ýpç\ÚXÚ\NðíÚ[XÚÙ]Ì[ÛÝ0éYÙHX\Ý0ï\ÚXÚØÚðéÚ]ÚTÜÚ][ÛKÝÚÎ[[ÙQ[ÈZ[YÛY[Y\HX[QÝËQ][\N]X\[ÝÙZ\ÙHÙ]ÍKZ[H][\[\ØZÝ]\ÈÜÛ[ËSX[YÙ[Y[KÝÚÎY\ÛÜÈÈ]È\\ÈZ[ÙZ[HÔS]Ù\ËP[[\ÙH
-ÛËR[\ÝY[
-H\NÚZÝÙZ\ÙHÙ]X[Y[H]Ù\Ø[[\ÙH\ÝZ]]YðéYÈ[Z\[°éYÈKKX\
-O
-]Ù^O^ÜÚßHÝ[O^ÞÛX\Ú[ÝÛNL_O]Ý[O^ÞÙ\Ü^N^\ÝYPÛÛ[ÜXÙKX]ÙY[X\Ú[ÝÛNß_OÜ[Ý[O^ÞÙÛÚ^NLÛÙZYÚLÛÛÜ\KZ[ÊH_OÜÚßOÜÜ[Ü[Û\ÜÓ[YOH[ÛË\ÛHÜ\_H0­ÈÜÙ]IOÜÜ[Ù]]Û\ÜÓ[YOHÝXØÙ\ÜËX\]Û\ÜÓ[YOHÝXØÙ\ÜËY[Ý[O^ÞÝÚYÙ]ÈH_KÏÙ]]Ý[O^ÞÙÛÚ^NLKÛÛÜ\KZ[Í
-HX\Ú[Üß_OÜOÙ]Ù]
-J_BÙ]Ù]Ù]Ù]ËÊÝ\ÝÛY\ÙYÛY[È
-ßB]Û\ÜÓ[YOHÙXÝ[Û]Û\ÜÓ[YOHÙXÝ[ÛZXY\]Û\ÜÓ[YOHÙXÝ[Û]]HÝ[[ÙYÛY[OÙ]Ü[Û\ÜÓ[YOHÙXÝ[Û]YÈYËXYHPÔY[][ÛÜÜ[Ù]]Û\ÜÓ[YOHÌÈÖÂÂY\[X\HPÔÛÎYËYÛÛ]NZYSX\Ù][\ÝXÝ\HÔÈ\ØÎUT¸ $ÌMH\]SKX[ÙZ[Y^Y\\ÈÛÛ\]]]H[[YÙ[ÙHX[K°ï[[ÚX\ÜÈX[Y[Ù\Ø\XÚ\ÚÝÒKL8 $ÍÈ[Û]Ú^NNÔÈÙ[ÙZ]^[\\Î]X[QY\YX[KÝXK[XØ\][\Ù[ÞNØÚ8 $ÈZÝ][H[Z\Ú[ÈKÂY\ÙXÛÛ\HPÔÛÎYËXYH]N[\ÝXÝ\H[ØØ]ÜÈ\ØÎ[Ú[ÛÚØ\ÜÙ[\ÚXÚ\[Ù[ÑËÝXÚ[ÝZÝ\Y\HÔP[ÚX\Ú[ËT\ÜÈ°ï[\H[\ÝY[ÛÛ[Z]Y\ËÝÒ8 $ÌÈ[Û]Ú^N[][HÈ
-ÒÑKÐUÓ
-H^[\\ÎÝÚ\ÜÈÜËPÑÓKÜXHSH\Ù[ÞNZ][8 $È°éXÚH[ØØ][Û]Y]ÜÈKÂY\\X\HPÔÛÎYËZ[È]NXÙ[Y[YÙ[È	Y\ÛÜÈ\ØÎ]XÚ[[Z\Ú[ËSX\Ý0ï\XÚÈ°ïX[]KT]Ú\Ë][][ÚZÝ\ÚY\ÝÒ
-L8 $ÌKÈ[Û]Ú^NZÝ]HXÙ[Y[YÙ[È^[\\ÎXYX\ËU\Ú[ÛØ[\[]Y[È\Ù[ÞNYYYø $ÓZ][KKX\
-ÈO
-]Ù^O^ÜËY\HÛ\ÜÓ[YOHØ\Ü[Û\ÜÓ[YO^ØÙXÝ[Û]YÈ	ÜËÛßXHÝ[O^ÞÛX\Ú[ÝÛNL\Ü^N[[KXØÚÈ_OÜËY\OÜÜ[]Û\ÜÓ[YOHØ\]]HÜË]_OÙ]]Û\ÜÓ[YOHØ\XÙHÜË\ØßOÙ]Ý[O^ÞØÜ\ÛHÜ\Ü\ÛÛY\KXÜ\HX\Ú[M_KÏ]Ý[O^ÞÙÛÚ^NLKÛÛÜ\KZ[ÌÊH_O]Ý[O^ÞÛX\Ú[ÝÛN_OÝÛÏÕÜÝÛÏÜËÝOÙ]]Ý[O^ÞÛX\Ú[ÝÛN_OÝÛÏX\ÝÜ°íÜÙNÜÝÛÏÜËÚ^_OÙ]]Ý[O^ÞÛX\Ú[ÝÛN_OÝÛÏZ\ÜY[NÜÝÛÏÜË^[\\ßOÙ]]ÝÛÏØ]Y[ÛXÚÙZ]ÜÝÛÏÜ[Ý[O^ÞØÛÛÜ\KZ[ÊH_OÜË\Ù[Þ_OÜÜ[Ù]Ù]Ù]
-J_BÙ]Ù]ËÊ[YHÜÜÚ][Û
-ßB]Û\ÜÓ[YOHÙXÝ[Û]Û\ÜÓ[YOHÙXÝ[ÛZXY\]Û\ÜÓ[YOHÙXÝ[Û]]H[YHÜÜÚ][ÛÙ]Ü[Û\ÜÓ[YOHÙXÝ[Û]YÈYËYÛÛÙ\\ÜXÚ[ÜÜ[Ù]]Û\ÜÓ[YOHÜÚYK\]Û\ÜÓ[YOHØ\Ø\Z[È]Û\ÜÓ[YOHØ\[X[Ý[O^ÞØÛÛÜ\KYÛÛH_OÙZÝ0­È[TÚYÛ[Ù]]Ý[O^ÞÙÛ[Z[N\K\Ù\YHÛÚ^NÛÙZYÚÌÛÛÜÚ]H[RZYÚKX\Ú[ÝÛNM_O\ÛÛX\È°ïÏ[HÝ[O^ÞØÛÛÜ\KYÛÛH_O[\ÝXÝ\H]]HX\Ù]ÏÙ[OÙ][Û\ÜÓ[YOHÛX[Ý[O^ÞÛX\Ú[ÝÛN_OÖÂ]KP[ÚX\Ú[ÈÙYÙ[HY\QÔÈÝ0ïXÚZÝX[\ÚY\\[[YÙ[ÙHYYTQ\Ü\Ú[ÛP[[\ÙH
-\Ù]ËXÚY]Y
-HPZÝ]]0éËUXÚÙ\
-ÛÛ[Z]Y[ËKU\ÊHX[QÝËS[Û]Ü[ÈXÚÙZÝÜ	YÚ[Û^Ü\XYH^Ù[È°ïØ\È	ÈKX\
-OOHÙ^O^Ú_HÝ[O^ÞØÛÛÜØJMKMKMK
-H_OÚ_OÛO_BÝ[]Ý[O^ÞÙÛ[Z[N\K[[ÛÊHÛÚ^NLÛÛÜ\KYÛÛH_OÑPUUUQ[ÜXÈÛ]YH0­ÈZ[Ø^HÜÝÜTÔS0­È\Z[È[[ÙÚXÈÈRBÙ]Ù]]]Û\ÜÓ[YOHØ\Ý[O^ÞÛX\Ú[ÝÛNM_O]Û\ÜÓ[YOHØ\[X[[\]YHÙ[[ÈÚ[ÏÙ]ÖÂÚXÛÛ¸¥á]NRKY\Ý\ØÎ0éÛXÚHÙXR[[YÙ[ÙHÚHX[Y[[\ÙX\ÚP]YØ[KÚXÛÛ¸¥âH]N]]HX\Ù]È]]H\ØÎXÚ\Z[YÚ8 $ÈXÚHÔPÛÛ\]]]KR[[YÙ[ÙHKÚXÛÛ¸¢¦H]NÜÜÜËTÛÝ\ÙHXÛÛÚ[X][Û\ØÎ\Z[
-È[[ÙÚXÈ
-ÈRH[Z[\ÝZÝ\Y\[KÚXÛÛ¸¥ã]NÝÚ\ÜÈÈ]\ÜX[ØÝ\È\ØÎPÒSË[YÙ\YÛ[Y[ZÛÛÜY\È\Ü[ÈKKX\
-OO]Ù^O^ÝK]_HÝ[O^ÞÙ\Ü^N^Ø\LY[ÎLÜ\ÝÛN\ÛÛY\KXÜ\H_OÜ[Ý[O^ÞÙÛÚ^NNÛÛÜ\KYÛÛ
-H^Ú[ÎX\Ú[Ü_OÝKXÛÛOÜÜ[]]Ý[O^ÞÙÛÚ^NLËÛÙZYÚLÛÛÜ\KZ[ÊH_OÝK]_OÙ]]Ý[O^ÞÙÛÚ^NLÛÛÜ\KZ[ÌÊH_OÝK\ØßOÙ]Ù]Ù]
-J_BÙ]]Û\ÜÓ[YOHØ\YÛÛ]Û\ÜÓ[YOHØ\[X[Ý[O^ÞØÛÛÜ\KYÛÛ
-H_O[Ø]Ù]]Û\ÜÓ[YOHØ\XÙH\Ù]]Ù\ÝÜZ[[ÝZ\ÚÝÛÏ][]Ù\ÙYZÝÜÝÛÏY\]YHÝ[B\\ÜÙ\YHÝZÝ\Y\HXÚL[Û][\ÝZ[ÝZÝ\Y\\\Z[YÝ\][Ø]Ü[[[ÙZ[Z[[Ý[H\^Y\[Ø[Ù]Ù]Ù]Ù]Ù]Ù]
-NÂBËÈ8¥ 8¥ QHÖ8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ [Ý[ÛYPÞ
+/* Hypothesis cards */
+.hyp{padding:18px;border-left:3px solid transparent;background:white;border:1px solid var(--border);border-radius:4px;margin-bottom:8px}
+.hyp.critical{border-left-color:var(--red)}
+.hyp.important{border-left-color:var(--gold)}
+.hyp.nice{border-left-color:#27ae60}
+.hyp-label{font-family:var(--mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:4px}
+.hyp.critical .hyp-label{color:var(--red)}
+.hyp.important .hyp-label{color:var(--gold)}
+.hyp.nice .hyp-label{color:#27ae60}
+.hyp-text{font-size:13px;color:var(--ink);font-weight:500;margin-bottom:4px}
+.hyp-test{font-size:12px;color:var(--ink3)}
 
-HÂ]\
-]Û\ÜÓ[YOHYKZ[ËÊÙ^H\ÜÝ[\[ÛÈ
-ßB]Û\ÜÓ[YOHÙXÝ[Û]Û\ÜÓ[YOHÙXÝ[ÛZXY\]Û\ÜÓ[YOHÙXÝ[Û]]HÜ]\ØÚH[ZY[Ù]Ü[Û\ÜÓ[YOHÙXÝ[Û]YÈYË\Y\ÚÚY\Ý\ÜÝ[\[ÛÈ\ÝÜÜ[Ù]]Û\ÜÓ[YOHÌ]]Ý[O^ÞÙÛ[Z[N\K[[ÛÊHÛÚ^NK]\ÜXÚ[ÎL[H^[ÙÜN\\Ø\ÙHÛÛÜ\KZ[Í
-HX\Ú[ÝÛNL_OÜ[Ý[O^ÞØÛÛÜ\K\Y
-H_O¸¥ãÈÜ]\ØÚÜÜ[ÈOÜ[Ý[O^ÞØÛÛÜ\KYÛÛ
-H_O¸¥ãÈÚXÚYÏÜÜ[ÈOÜ[Ý[O^ÞØÛÛÜÌØYM_O¸¥ãÈXÙK]ËZ]OÜÜ[Ù]ÖÂÝ\NÜ]XØ[X[ÕP[ZYH^ÔÈZ[ÒKL
-ËÓ[Û]°ïÝZÝ\Y\H[[YÙ[ÙH\Ý¸¡¤\ÝÈÛLÔÈÚYÛ[\ÚY\[Z[ÜØ\Z]ØÚYXÚ[[ÈKÝ\NÜ]XØ[X[ØÚY\U[YY\[È^\ÙX\ÚUX[\È\Ù[[ÚÕÛØÚH°ïX[Y[HXÚ\ÚH\Ý¸¡¤\Ý	H\YYÝ[ÔÈ\Ý0éYÙ[ÚÕÛØÚHKÝ\N[\Ü[X[][]X[]0é^RKYÙ[\Y\H[[YÙ[ÙH\Ý°é\ÙHÙ[YÈ°ïÙ\ÜÚ[Û[H[ØÚZY[Ù[\Ý¸¡¤\ÝÈXÚÌUYÙKT[ÝKÝ\N[\Ü[X[TÙYÛY[^ÈZ[°ïÔP[ÚX\Ú[ËT\ÜÈ\Ý¸¡¤\ÝÛ
-HÈÛÛ[Z]Y\[H[ÝKÝ\NXÙHX[XÙ[Y[YÙ[]^XÙ[Y[YÙ[È][[TÚYÛ[°ï[Z\Ú[ËT]Ú\È\Ý¸¡¤\ÝHÛÈH]ÛÛZÝ]XÚ
-YÙ[KKX\
-OO]Ù^O^ØKX[HÛ\ÜÓ[YO^Ø\	ØK\_XO]Û\ÜÓ[YOH\[X[ØKX[OÙ]]Û\ÜÓ[YOH\]^ØK^OÙ]]Û\ÜÓ[YOH\]\ÝØK\ÝOÙ]Ù]
-J_BÙ]ËÊUXH
-ßB]]Û\ÜÓ[YOHØ\]Û\ÜÓ[YOHØ\[X[Z[[][HXXH\ÝÈ
-U
-OÙ]]Û\ÜÓ[YOH]\ÝÈXY\]\ÝÙ]]]YØ[Ù]]Z]][OÙ]]\ÛÜËRÜ]\][OÙ]Ù]ÖÂÝ\ÝÝ[\SYØ[\ÈØ[È
-LLÔÊHY[YNÕÈM8 $ÌMHÜ]¸¢iLÈÔÎÕKÝ\Ý[[ÈYÙH
-ÈØZ]\ÝY[YNÕÈLÈÜ]¸¢iLÌÚYÛ]\ÈKÝ\ÝZY[ÝHÔÌYÙHÜ]\ÈY[YNÕÈM¸ $ÌNHÜ]È8¢iMKÝ\Ý[[ËQXÚÈ[
-HÈY[YNÕÈMx $ÌMÜ]¸¢iLÛÝË]\ÈKÝ\Ý[ÙY[Ý]XXÚÔXYÈYÚ[YNÕÈLø $ÌMÜ]¸¢iMH[ÛÜ[KÝ\ÝZ\Ý\Ý[Û[HÝ\^H
-ML
-HY[YNÕÈMÜ]YYX[Õ8¢iPÒKKX\
-OO]Ù^O^ÛK\ÝHÛ\ÜÓ[YOH]\ÝÈ]Û\ÜÓ[YOH]XÙ[XZ[ÛK\ÝOÙ]]Û\ÜÓ[YOH]XÙ[Ü[Û\ÜÓ[YOH[[YÛÛÛKYOÜÜ[Ù]]Û\ÜÓ[YOH]XÙ[[ÛË\ÛHÛK[Y_OÙ]]Û\ÜÓ[YOH]XÙ[Ý[O^ÞÙÛÚ^NLKÛÛÜ\KZ[ÌÊH_OÛKÜ]OÙ]Ù]
-J_BÙ]]Û\ÜÓ[YOHØ\XYHÝ[O^ÞÛX\Ú[ÜM_O]Û\ÜÓ[YOHØ\[X[Ý[O^ÞØÛÛÜ\KXYJH_OÚ[Ü]\XOÙ]]Û\ÜÓ[YOHØ\XÙHÝ[O^ÞØÛÛÜ\KXYJH_OÚZÝÚ\Ù\ÝÜÙ[	ÌÈÛLÔÈÚYÛ[\ÚY\[Z[ÜØ\Z]ØÚYZHÒ
-ËÓ[Û][OÙ\Ù[OÙZ[Z[YÙ\[ÝXÚ
-YÙ[
-[]Ý]YÚ]KSX[°ïZ[[H]ÜJKÙ]Ù]Ù]Ù]Ù]ËÊÝ\ÝÛY\\ØÛÝ\H
-ßB]Û\ÜÓ[YOHÙXÝ[Û]Û\ÜÓ[YOHÙXÝ[ÛZXY\]Û\ÜÓ[YOHÙXÝ[Û]]HÝ\ÝÛY\\ØÛÝ\HØÜ\Ù]Ü[Û\ÜÓ[YOHÙXÝ[Û]YÈYËXYH[\Y]ÈÝZYOÜÜ[Ù]]Û\ÜÓ[YOHÌÖÂÂ\ÙNZ[ÝYYÈ
+/* Misc */
+.divider{border:none;border-top:1px solid var(--border2);margin:32px 0}
+.quote{font-family:var(--serif);font-size:18px;font-style:italic;color:var(--ink2);line-height:1.6;padding:20px 24px;border-left:3px solid var(--gold);background:var(--paper2);border-radius:0 4px 4px 0}
+.footnote{font-family:var(--mono);font-size:10px;color:var(--ink4);margin-top:8px}
+ul.clean{list-style:none}
+ul.clean li{padding:4px 0;font-size:13px;color:var(--ink3);display:flex;gap:8px}
+ul.clean li::before{content:'–';color:var(--gold);flex-shrink:0}
+.pill{display:inline-block;font-family:var(--mono);font-size:9px;padding:3px 9px;border-radius:2px;letter-spacing:.05em}
+.pill-gold{background:var(--gold-light);color:var(--gold);border:1px solid rgba(184,134,11,.2)}
+.pill-blue{background:var(--blue-light);color:var(--blue);border:1px solid rgba(26,58,92,.15)}
+.pill-red{background:var(--red-light);color:var(--red)}
+.pill-green{background:var(--green-light);color:var(--green)}
+strong{font-weight:600;color:var(--ink)}
+.mono-sm{font-family:var(--mono);font-size:11px;color:var(--ink4)}
+.text-gold{color:var(--gold)}
+.text-red{color:var(--red)}
+.fade-in{animation:fadeIn .4s ease both}
+@keyframes fadeIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:960px){.g3,.g4,.pricing-grid,.roadmap{grid-template-columns:1fr 1fr}}
+@media(max-width:640px){.g2,.g3,.g4,.gside,.gside-r,.pricing-grid,.roadmap{grid-template-columns:1fr}}
+`;
 
-HZ[H\ÎÈÚYHY[Z]\[ÝZX[HÈÛØÚHZ]ÛÛ\]]]H[[YÙ[ÙHH[\[[KQÔÏÈØ\È\ÝZHZÝY[HÛË]ËT]Y[H°ïÔP[ÚX\Ú[ÏÈKKÂ\ÙNØ[KUYYH
-MHZ[H\ÎÈZYÈZ\ÚYHH]]HZ[[]Y[Ù]]Ù\\QÔXÚ\ÚY\Ý8 $ÈØ[ÈYHÝYÚHØÙ\ÜËØ\ÈZ\ZH\Z[È[[ÙÚXÈ[HYZ\Ý[ÈKKÂ\ÙNÛÛ][ÛQ]
-LZ[H\ÎÈÙ[\ÈZ[ÛÛðéH\ÈY\ÙH][]]ÛX]\ØÚYÙÜYÚY\8 $ÈÚYHY[ðéH\\ÈÙ\ÈÙ\[Z[\ÜØ[\Ø][ÛðïH\È0éÛXÚ][ÈKKÂ\ÙNÛÛ[Z]Y[U\Ý
+const STAGES = [
+  { id: "red",   num: "01", name: "Red Box",  sub: "Explore",  cls: "red" },
+  { id: "blue",  num: "02", name: "Blue Box", sub: "Validate", cls: "blue" },
+  { id: "gold",  num: "03", name: "Gold Box", sub: "Scale",    cls: "gold" },
+  { id: "black", num: "04", name: "Scale",    sub: "Launch",   cls: "black" },
+];
 
-HZ[H\ÎÈ\XÚ\[ÛØÚ[Z[ÛÛÜ]\È[[ÈZYÙ[ÈÙ\]\ÜÙ\\pïÜÝHYHØ]Y[ØÚZY[ÈY[ÈKKKX\
-O]Ù^O^Ü\Ù_HÛ\ÜÓ[YOHØ\\ÛH]Û\ÜÓ[YOHØ\[X[Ü\Ù_OÙ][Û\ÜÓ[YOHÛX[Ü\ËX\
-OOHÙ^O^Ü_OÜ_OÛO_BÝ[Ù]
-J_BÙ]Ù]Ù]
-NÂBËÈ8¥ 8¥ ÓÓÖ8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ 8¥ [Ý[ÛÛÛÞ
+// ── RED BOX ──────────────────────────────────────────────────────
+function RedBox() {
+  return (
+    <div className="fade-in">
 
-HÂ]\
-]Û\ÜÓ[YOHYKZ[ËÊXÚ[È
-ßB]Û\ÜÓ[YOHÙXÝ[Û]Û\ÜÓ[YOHÙXÝ[ÛZXY\]Û\ÜÓ[YOHÙXÝ[Û]]HZ\Û[Ù[Ù]Ü[Û\ÜÓ[YOHÙXÝ[Û]YÈYËYÛÛ][YH\Ú]XÝ\OÜÜ[Ù]]Û\ÜÓ[YOHXÚ[ËYÜYÖÂÂY\Ý\\YÙNÈY\ÛÜX]\Y[ÙKXÙNL\Ó[Û]
-ÒH\ØÎ°ïP[ØØ]ÜÈ[Y\ÛÜUX[\ÈZ]YÜ[[H[KU[]\ÙKX]\\ÎÂ[[YÙ[ÙHYY
-HÔÈXÚØZ
-HðíÚ[XÚ\YY[ËT\Ü[Z\Ú[È	ÛÜÚ[È[\ÈÔÙ[Q][
-\Z[S][
-HH\Ù\KSXZ[Ý\ÜK[Ý][HKÂ            tier:"Professional", badge:"â Empfohlen", featured:true,
-              price:"1.900", per:"/Monat (CHF)",
-              desc:"FÃ¼r GP Research-Teams und aktive Infrastruktur-Investoren.",
+      {/* Problem Statement */}
+      <div className="section">
+        <div className="section-header">
+          <div className="section-title">Das Problem</div>
+          <span className="section-tag tag-red">Problem / Solution Fit</span>
+        </div>
+        <div className="gside">
+          <div>
+            <div className="quote">
+              "Infrastructure GPs und ihre LPs agieren mit erheblichen Informationsasymmetrien:
+              relevante Marktdaten zu Fundraisings, IRR-Benchmarks und Wettbewerbern
+              sind fragmentiert über drei kostenpflichtige Plattformen verteilt."
+            </div>
+            <div className="g2" style={{marginTop:20}}>
+              {[
+                {n:"3–5 h",l:"manueller Rechercheaufwand pro GP-Update"},
+                {n:"CHF 80k+",l:"Jahreskosten für Preqin + Infralogic + II"},
+                {n:"~65",l:"Manager im relevanten Infra-GP-Universe"},
+                {n:"Ø 13 Wo.",l:"bis ein vollständiges Competitor Universe steht"},
+              ].map(s => (
+                <div key={s.n} className="card-sm card-accent">
+                  <div className="card-num" style={{fontSize:28}}>{s.n}</div>
+                  <div className="card-num-label">{s.l}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+          <div>
+            <div className="card" style={{height:"100%"}}>
+              <div className="card-label">Pain Severity Matrix</div>
+              {[
+                {who:"GP Research Teams",pain:"Kein Echtzeit-Benchmarking gegen Peer-GPs",freq:"täglich",sev:90,p:"Zeitverlust bei manueller Recherche kostet Wettbewerbsvorteile"},
+                {who:"LP Allokatoren",pain:"Keine strukturierten GP-Vergleiche bei Allocation Reviews",freq:"monatlich",sev:80,p:"Fehlende Vergleichsbasis führt zu suboptimalen Entscheidungen"},
+                {who:"Placement Agents",pain:"Manuelle Fundraising-Markt-Übersicht",freq:"wöchentlich",sev:70,p:"Unvollständige Marktübersicht schwächt Pitch-Position"},
+                {who:"Fund-of-Funds",pain:"Fragmentierte Deal-Flow-Daten",freq:"quartalsweise",sev:75,p:"Fehlende Daten verhindern proaktives Portfolio-Management"},
+                {who:"Advisors / Law Firms",pain:"Keine GP-Netzwerk-Analyse (Co-Investment)",freq:"projektweise",sev:60,p:"Manuelle Netzwerkanalyse ist zeitaufwändig und fehleranfällig"},
+              ].map(r => (
+                <div key={r.who} style={{marginBottom:12}}>
+                  <div style={{display:"flex",justifyContent:"space-between",marginBottom:3}}>
+                    <span style={{fontSize:12,fontWeight:500,color:"var(--ink)"}}>{r.who}</span>
+                    <span className="mono-sm">{r.freq} · {r.sev}%</span>
+                  </div>
+                  <div className="success-bar"><div className="success-fill" style={{width:r.sev+"%"}}/></div>
+                  <div style={{fontSize:11,color:"var(--ink4)",marginTop:3}}>{r.p}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Customer Segments */}
+      <div className="section">
+        <div className="section-header">
+          <div className="section-title">Kundensegmente</div>
+          <span className="section-tag tag-blue">ICP Definition</span>
+        </div>
+        <div className="g3">
+          {[
+            {
+              tier:"Primary ICP",cls:"tag-gold",
+              title:"Mid-Market Infrastructure GPs",
+              desc:"EUR 2–15 Mrd. AuM. Haben kein dediziertes Competitive Intelligence Team. Führen Benchmarks manuell oder gar nicht durch.",
+              wtp:"CHF 1.500–4.000 / Monat",
+              size:"~180 GPs weltweit",
+              examples:"Vauban, DIF, Meridiam, Cube, Infracapital",
+              urgency:"Hoch – aktiv im Fundraising",
+            },
+            {
+              tier:"Secondary ICP",cls:"tag-blue",
+              title:"Infrastructure LP Allocators",
+              desc:"Pensionskassen, Versicherungen, FoFs. Suchen strukturierte GP-Benchmarking-Reports für interne Investment Committees.",
+              wtp:"CHF 800–2.000 / Monat",
+              size:"~400 relevante LPs (CH/DE/AT/NL)",
+              examples:"Swiss PKs, ABP, PGGM, Nordea AM",
+              urgency:"Mittel – jährliche Allocation Reviews",
+            },
+            {
+              tier:"Tertiary ICP",cls:"tag-ink",
+              title:"Placement Agents & Advisors",
+              desc:"Brauchen Fundraising-Marktüberblick für Mandate-Pitches. Nutzen Daten projektbasiert.",
+              wtp:"CHF 500–1.200 / Monat",
+              size:"~60 aktive Placement Agents",
+              examples:"Threadmark, MVision, Campbell Lutyens",
+              urgency:"Niedrig–Mittel",
+            },
+          ].map(s => (
+            <div key={s.tier} className="card">
+              <span className={`section-tag ${s.cls}`} style={{marginBottom:12,display:"inline-block"}}>{s.tier}</span>
+              <div className="card-title">{s.title}</div>
+              <div className="card-body">{s.desc}</div>
+              <hr style={{border:"none",borderTop:"1px solid var(--border2)",margin:"16px 0"}}/>
+              <div style={{fontSize:11,color:"var(--ink3)"}}>
+                <div style={{marginBottom:4}}><strong>WTP:</strong> {s.wtp}</div>
+                <div style={{marginBottom:4}}><strong>Marktgrösse:</strong> {s.size}</div>
+                <div style={{marginBottom:4}}><strong>Beispiele:</strong> {s.examples}</div>
+                <div><strong>Kaufdringlichkeit:</strong> <span style={{color:"var(--ink)"}}>{s.urgency}</span></div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* Value Proposition */}
+      <div className="section">
+        <div className="section-header">
+          <div className="section-title">Value Proposition</div>
+          <span className="section-tag tag-gold">Kernversprechen</span>
+        </div>
+        <div className="gside-r">
+          <div className="card card-ink">
+            <div className="card-label" style={{color:"var(--gold2)"}}>Produkt · InfraSignal</div>
+            <div style={{fontFamily:"var(--serif)",fontSize:26,fontWeight:700,color:"white",lineHeight:1.2,marginBottom:16}}>
+              Der Bloomberg für<br/><em style={{color:"var(--gold2)"}}>Infrastructure Private Markets</em>
+            </div>
+            <ul className="clean" style={{marginBottom:20}}>
+              {[
+                "Live-Benchmarking gegen ~65 Peer-GPs",
+                "Stündlich aktualisierter Intelligence Feed",
+                "IRR-Dispersion-Analyse (Target vs. Achieved)",
+                "LP-Aktivitäts-Tracker (Commitments, Re-Ups)",
+                "Deal-Flow-Monitoring nach Sektor & Region",
+                "Export-ready Excel / PDF für Boards & LPs",
+              ].map(i=><li key={i} style={{color:"rgba(255,255,255,.8)"}}>{i}</li>)}
+            </ul>
+            <div style={{fontFamily:"var(--mono)",fontSize:10,color:"var(--gold2)"}}>
+              GEBAUT AUF: Anthropic Claude · Railway PostgreSQL · Preqin / Infralogic / II
+            </div>
+          </div>
+          <div>
+            <div className="card" style={{marginBottom:16}}>
+              <div className="card-label">Unique Selling Points</div>
+              {[
+                {icon:"◆",title:"AI-first",desc:"Tägliche Web-Intelligence ohne manuellen Research-Aufwand"},
+                {icon:"◉",title:"Private Markets Native",desc:"Nicht Preqin light – echte GP-Competitive-Intelligence"},
+                {icon:"⊙",title:"Cross-Source Reconciliation",desc:"Preqin + Infralogic + II in einer strukturierten DB"},
+                {icon:"◎",title:"Swiss / European Focus",desc:"DACH-LPs, Anlagereglement-konformes Reporting"},
+              ].map(u=>(
+                <div key={u.title} style={{display:"flex",gap:12,padding:"10px 0",borderBottom:"1px solid var(--border2)"}}>
+                  <span style={{fontSize:18,color:"var(--gold)",flexShrink:0,marginTop:2}}>{u.icon}</span>
+                  <div><div style={{fontSize:13,fontWeight:500,color:"var(--ink)"}}>{u.title}</div><div style={{fontSize:12,color:"var(--ink3)"}}>{u.desc}</div></div>
+                </div>
+              ))}
+            </div>
+            <div className="card-gold">
+              <div className="card-label" style={{color:"var(--gold)"}}>Moat</div>
+              <div className="card-body">
+                Der Wettbewerbsvorteil entsteht durch <strong>Datennetzwerkeffekt</strong>: Jeder neue Kunde
+                verbessert die strukturierte DB. Nach 12 Monaten ist ein strukturierter,
+                bereinigter Datensatz vorhanden, den kein Einzelkunde replizieren kann.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  );
+}
+
+// ── BLUE BOX ──────────────────────────────────────────────────────
+function BlueBox() {
+  return (
+    <div className="fade-in">
+
+      {/* Key Assumptions */}
+      <div className="section">
+        <div className="section-header">
+          <div className="section-title">Kritische Annahmen</div>
+          <span className="section-tag tag-red">Riskiest Assumptions First</span>
+        </div>
+        <div className="g2">
+          <div>
+            <div style={{fontFamily:"var(--mono)",fontSize:9,letterSpacing:".12em",textTransform:"uppercase",color:"var(--ink4)",marginBottom:12}}>
+              <span style={{color:"var(--red)"}}>● Kritisch</span>
+              {"  "}<span style={{color:"var(--gold)"}}>● Wichtig</span>
+              {"  "}<span style={{color:"#27ae60"}}>● Nice-to-have</span>
+            </div>
+            {[
+              {type:"critical",label:"WTP-Annahme",text:"GPs zahlen CHF 1.500+/Monat für strukturierte Intelligence",test:"→ Test: 3 von 10 GPs signalisieren Zahlungsbereitschaft nach Demo"},
+              {type:"critical",label:"Schmerz-Validierung",text:"Research-Teams verwenden >3h/Woche für manuelle Recherche",test:"→ Test: 80% der befragten GPs bestätigen >3h/Woche"},
+              {type:"important",label:"Datenqualität",text:"AI-generierte Intelligence ist präzise genug für professionelle Entscheidungen",test:"→ Test: NPS >40 nach 30-Tage-Pilot"},
+              {type:"important",label:"LP-Segment",text:"LPs zahlen für GP-Benchmarking-Reports",test:"→ Test: 2 von 5 LPs committieren zu Pilot"},
+              {type:"nice",label:"Placement Agent Fit",text:"Placement Agents nutzen InfraSignal für Fundraising-Pitches",test:"→ Test: 1 von 3 PA nutzt Tool aktiv nach 60 Tagen"},
+            ].map(a=>(
+              <div key={a.label} className={`hyp ${a.type}`}>
+                <div className="hyp-label">{a.label}</div>
+                <div className="hyp-text">{a.text}</div>
+                <div className="hyp-test">{a.test}</div>
+              </div>
+            ))}
+          </div>
+
+          {/* MVT Table */}
+          <div>
+            <div className="card">
+              <div className="card-label">Minimum Viable Tests (MVT)</div>
+              <div className="mvt-row header">
+                <div>Test</div><div>Aufwand</div><div>Zeitraum</div><div>Erfolgs-Kriterium</div>
+              </div>
+              {[
+                {test:"Founder-Led Sales Calls (n=10 GPs)",eff:"8h",time:"KW 14–15",crit:"≥3 GPs: WTP"},
+                {test:"Landing Page + Waitlist",eff:"4h",time:"KW 13",crit:"≥30 Sign-ups"},
+                {test:"Paid Pilot: 1 GP, 30 Tage gratis",eff:"20h",time:"KW 16–19",crit:"NPS ≥40"},
+                {test:"Demo-Deck an 5 LPs",eff:"6h",time:"KW 15–16",crit:"≥2 Follow-ups"},
+                {test:"LinkedIn Outreach: 20 GP Leads",eff:"3h",time:"KW 13–14",crit:"≥5 Antworten"},
+                {test:"Preistest: Anonym Survey (n=50)",eff:"2h",time:"KW 14",crit:"Median WTP ≥CHF 800"},
+              ].map(m=>(
+                <div key={m.test} className="mvt-row">
+                  <div className="mvt-cell main">{m.test}</div>
+                  <div className="mvt-cell"><span className="pill pill-gold">{m.eff}</span></div>
+                  <div className="mvt-cell mono-sm">{m.time}</div>
+                  <div className="mvt-cell" style={{fontSize:11,color:"var(--ink3)"}}>{m.crit}</div>
+                </div>
+              ))}
+            </div>
+
+            <div className="card-blue" style={{marginTop:16}}>
+              <div className="card-label" style={{color:"var(--blue)"}}>Kill Criteria</div>
+              <div className="card-body" style={{color:"var(--blue)"}}>
+                Projekt wird gestoppt wenn: &lt;3 von 10 GPs signalisieren Zahlungsbereitschaft
+                bei CHF 800+/Monat <em>oder</em> kein einziger Pilot nach 60 Tagen
+                (dann: Pivot auf White-Label B2B für einzelne Plattform).
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Customer Discovery */}
+      <div className="section">
+        <div className="section-header">
+          <div className="section-title">Customer Discovery Script</div>
+          <span className="section-tag tag-blue">Interview Guide</span>
+        </div>
+        <div className="g2">
+          {[
+            {
+              phase:"Einstieg (5 min)",
+              qs:["Wie viel Zeit verbringt Ihr Team pro Woche mit Competitive Intelligence zu anderen Infra-GPs?","Was ist Ihre aktuelle Go-to-Quelle für GP-Benchmarking?"],
+            },
+            {
+              phase:"Problem-Tiefe (15 min)",
+              qs:["Zeig mir wie du heute einen neuen Wettbewerber-GP recherchierst – walk me through the process.","Was fehlt dir bei Preqin / Infralogic am meisten?"],
+            },
+            {
+              phase:"Solution-Fit (10 min)",
+              qs:["Wenn es ein Tool gäbe das diese Daten automatisch aggregiert – wie viel wäre dir das wert?","Wer in deiner Organisation würde das täglich nutzen?"],
+            },
+            {
+              phase:"Commitment-Test (5 min)",
+              qs:["Darf ich dir in 2 Wochen ein konkretes Demo zeigen?","Wer ausser dir müsste die Kaufentscheidung treffen?"],
+            },
+          ].map(p=>(
+            <div key={p.phase} className="card-sm">
+              <div className="card-label">{p.phase}</div>
+              <ul className="clean">
+                {p.qs.map(q=><li key={q}>{q}</li>)}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </div>
+
+    </div>
+  );
+}
+
+// ── GOLD BOX ──────────────────────────────────────────────────────
+function GoldBox() {
+  return (
+    <div className="fade-in">
+
+      {/* Pricing */}
+      <div className="section">
+        <div className="section-header">
+          <div className="section-title">Preismodell</div>
+          <span className="section-tag tag-gold">Revenue Architecture</span>
+        </div>
+        <div className="pricing-grid">
+          {[
+            {
+              tier:"Starter", badge:"LP / Advisor", featured:false,
+              price:"490", per:"/Monat (CHF)",
+              desc:"Für LP-Allocators und Advisor-Teams mit begrenztem Infra-Universe.",
               features:[
-                "VollstÃ¤ndiges GP Universe (65 Manager)",
+                "Intelligence Feed (25 GPs nach Wahl)",
+                "Wöchentlicher Briefing-Report PDF",
+                "Fundraising & Closing Alerts",
+                "GP Profil-Daten (Preqin-Level)",
+                "1 User",
+                "E-Mail Support",
+              ],
+              btn:"btn-outline",
+            },
+            {
+              tier:"Professional", badge:"★ Empfohlen", featured:true,
+              price:"1.900", per:"/Monat (CHF)",
+              desc:"Für GP Research-Teams und aktive Infrastruktur-Investoren.",
+              features:[
+                "Vollständiges GP Universe (65 Manager)",
                 "IRR-Dispersion-Benchmarking (Infralogic)",
-                "LP-AktivitÃ¤ts-Tracker + Commitments",
+                "LP-Aktivitäts-Tracker + Commitments",
                 "Deal-Flow-Monitoring (Asset-Level)",
                 "Excel-Export / API-Zugang",
-                "StÃ¼ndlicher AI-Intelligence-Agent",
+                "Stündlicher AI-Intelligence-Agent",
                 "Cross-Source-Abgleich (Preqin + IL + II)",
-                "3 User Â· Dedicated Onboarding",
+                "3 User · Dedicated Onboarding",
               ],
               btn:"btn-white",
             },
             {
               tier:"Enterprise", badge:"GP / Large LP", featured:false,
               price:"4.900", per:"/Monat (CHF)",
-              desc:"FÃ¼r institutionelle GPs mit komplexem Reporting- und White-Label-Bedarf.",
+              desc:"Für institutionelle GPs mit komplexem Reporting- und White-Label-Bedarf.",
               features:[
                 "Alles aus Professional",
                 "Custom GP Universe (unbegrenzt)",
@@ -299,7 +534,7 @@ HH\Ù\KSXZ[Ý\Ü
                 "Dedizierter Research-Analyst (4h/Mo)",
                 "Benchmarking-Metodologie nach EDHEC SIPA",
                 "CRM-Integration (Salesforce / HubSpot)",
-                "SLA 99.9% Â· Priority Support",
+                "SLA 99.9% · Priority Support",
                 "Unbegrenzte User",
               ],
               btn:"btn-outline",
@@ -317,7 +552,7 @@ HH\Ù\KSXZ[Ý\Ü
               <ul className="feature-list">
                 {t.features.map(f=>(
                   <li key={f} className="feature-item">
-                    <span className="fi-icon">â</span>{f}
+                    <span className="fi-icon">✓</span>{f}
                   </li>
                 ))}
               </ul>
@@ -326,7 +561,7 @@ HH\Ù\KSXZ[Ý\Ü
           ))}
         </div>
         <div className="footnote" style={{marginTop:12}}>
-          * JÃ¤hrliche Zahlung: 2 Monate gratis. Pilot: 30 Tage kostenlos, kein Credit Card erforderlich.
+          * Jährliche Zahlung: 2 Monate gratis. Pilot: 30 Tage kostenlos, kein Credit Card erforderlich.
         </div>
       </div>
 
@@ -374,7 +609,7 @@ HH\Ù\KSXZ[Ý\Ü
             <div className="g2" style={{marginBottom:16}}>
               {[
                 {n:"CHF 490",l:"Entry Price / Monat",sub:"LP-Tier"},
-                {n:"12Ã",l:"LTV / CAC Ratio (Mo. 24)",sub:"Best Case"},
+                {n:"12×",l:"LTV / CAC Ratio (Mo. 24)",sub:"Best Case"},
                 {n:"8%",l:"Angenommener Annual Churn",sub:"SaaS B2B"},
                 {n:"CHF 2.2k",l:"ACV Blended (Mo. 12)",sub:"Alle Tiers"},
               ].map(s=>(
@@ -388,10 +623,10 @@ HH\Ù\KSXZ[Ý\Ü
             <div className="card-gold">
               <div className="card-label" style={{color:"var(--gold)"}}>Exit / Partnering-Optionen</div>
               <ul className="clean">
-                <li>Akquisitions-Target fÃ¼r Preqin / MSCI / S&P Global</li>
+                <li>Akquisitions-Target für Preqin / MSCI / S&P Global</li>
                 <li>White-Label-Lizenz an Placement Agents</li>
                 <li>Data-Partnership mit Infrastructure Investor (Incisive Media)</li>
-                <li>Spin-off als unabhÃ¤ngige Benchmark-Agentur (wie EDHEC SIPA)</li>
+                <li>Spin-off als unabhängige Benchmark-Agentur (wie EDHEC SIPA)</li>
               </ul>
             </div>
           </div>
@@ -431,12 +666,12 @@ HH\Ù\KSXZ[Ý\Ü
             </div>
             <div style={{marginBottom:16}}>
               {[
-                ["â","AI-powered Live Feed"],
-                ["â","Cross-Source Reconciliation"],
-                ["â","IRR Dispersion Benchmarking"],
-                ["â","LP Tracker (Commitments)"],
-                ["â","DACH / European LP Focus"],
-                ["â","CHF 490â4.900 / Monat (10Ã gÃ¼nstiger als Bloomberg)"],
+                ["✓","AI-powered Live Feed"],
+                ["✓","Cross-Source Reconciliation"],
+                ["✓","IRR Dispersion Benchmarking"],
+                ["✓","LP Tracker (Commitments)"],
+                ["✓","DACH / European LP Focus"],
+                ["✓","CHF 490–4.900 / Monat (10× günstiger als Bloomberg)"],
               ].map(([icon,text])=>(
                 <div key={text} style={{display:"flex",gap:10,padding:"5px 0",fontSize:13,color:"rgba(255,255,255,.85)"}}>
                   <span style={{color:"var(--gold2)"}}>{icon}</span>{text}
@@ -454,7 +689,7 @@ HH\Ù\KSXZ[Ý\Ü
   );
 }
 
-// ââ SCALE BOX ââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ── SCALE BOX ──────────────────────────────────────────────────────
 function ScaleBox() {
   return (
     <div className="fade-in">
@@ -467,7 +702,7 @@ function ScaleBox() {
         </div>
         <div className="roadmap" style={{marginBottom:32}}>
           {[
-            {num:"Q2 '26",label:"MVP",sub:"Railway DB live\nAI-Agent stÃ¼ndlich\nInfralogic-Integration",status:"now"},
+            {num:"Q2 '26",label:"MVP",sub:"Railway DB live\nAI-Agent stündlich\nInfralogic-Integration",status:"now"},
             {num:"Q3 '26",label:"Pilot",sub:"5 bezahlte Pilots\nCustomer Discovery\nLanding Page live",status:"soon"},
             {num:"Q4 '26",label:"Launch",sub:"Product-Market Fit\nPricing confirmed\n10 paying customers",status:"later"},
             {num:"Q1 '27",label:"Scale",sub:"Sales-Motion\n20+ Kunden\nPartnership Placement Agent",status:"later"},
@@ -477,7 +712,7 @@ function ScaleBox() {
               <div className="rm-label">{p.label}</div>
               <div className="rm-sub" style={{whiteSpace:"pre-line"}}>{p.sub}</div>
               <div className={`rm-badge pill ${p.status==="now"?"pill-gold":p.status==="done"?"pill-green":"pill"}`}>
-                {p.status==="done"?"â Done":p.status==="now"?"â Active":p.status==="soon"?"Soon":"Later"}
+                {p.status==="done"?"✓ Done":p.status==="now"?"● Active":p.status==="soon"?"Soon":"Later"}
               </div>
             </div>
           ))}
@@ -486,9 +721,9 @@ function ScaleBox() {
         <div className="g3">
           {[
             {
-              phase:"Phase 1 â Build (KW 12â24, jetzt)",
+              phase:"Phase 1 – Build (KW 12–24, jetzt)",
               items:[
-                "Railway DB + AI-Agent deployed â",
+                "Railway DB + AI-Agent deployed ✓",
                 "GP Universe ~65 Manager strukturiert",
                 "Preqin / Infralogic / II Daten manuell erfasst",
                 "Dashboard intern genutzt bei Reichmuth",
@@ -496,7 +731,7 @@ function ScaleBox() {
               ],col:"tg"
             },
             {
-              phase:"Phase 2 â Validate (Q3 2026)",
+              phase:"Phase 2 – Validate (Q3 2026)",
               items:[
                 "10 Discovery-Calls mit GP Research-Leads",
                 "Landing Page: infrasignal.ch + Waitlist",
@@ -506,18 +741,18 @@ function ScaleBox() {
               ],col:"ta"
             },
             {
-              phase:"Phase 3 â Scale (Q4 2026+)",
+              phase:"Phase 3 – Scale (Q4 2026+)",
               items:[
                 "Erstes bezahltes SaaS-Abo abschliessen",
                 "Daten-Coverage auf 120+ GPs erweitern",
-                "API-Zugang fÃ¼r Enterprise-Tier",
+                "API-Zugang für Enterprise-Tier",
                 "Partnership mit Placement Agent",
                 "Fundraising oder Bootstrapped entscheiden",
               ],col:"tc"
             },
           ].map(p=>(
             <div key={p.phase} className="card">
-              <span className={`section-tag tag-${p.col.slice(1)}`} style={{marginBottom:12,display:"inline-block"}}>{p.phase.split("â")[0].trim()}</span>
+              <span className={`section-tag tag-${p.col.slice(1)}`} style={{marginBottom:12,display:"inline-block"}}>{p.phase.split("–")[0].trim()}</span>
               <div style={{fontFamily:"var(--serif)",fontSize:14,fontWeight:600,color:"var(--ink)",marginBottom:12}}>{p.phase}</div>
               <ul className="clean">
                 {p.items.map(i=><li key={i}>{i}</li>)}
@@ -531,13 +766,13 @@ function ScaleBox() {
       <div className="section">
         <div className="section-header">
           <div className="section-title">Go-to-Market</div>
-          <span className="section-tag tag-gold">Akquisitions-KanÃ¤le</span>
+          <span className="section-tag tag-gold">Akquisitions-Kanäle</span>
         </div>
         <div className="g2">
           <div>
             {[
-              {ch:"Founder-Led Outreach",conv:"15%",desc:"Peter nutzt Reichmuth-Netzwerk und persÃ¶nliche GP-Kontakte fÃ¼r direkte Demos"},
-              {ch:"LinkedIn Content",conv:"5%",desc:"WÃ¶chentliche Posts zu Infra-GP-Benchmarks und IRR-Trends â Thought Leadership"},
+              {ch:"Founder-Led Outreach",conv:"15%",desc:"Peter nutzt Reichmuth-Netzwerk und persönliche GP-Kontakte für direkte Demos"},
+              {ch:"LinkedIn Content",conv:"5%",desc:"Wöchentliche Posts zu Infra-GP-Benchmarks und IRR-Trends – Thought Leadership"},
               {ch:"Infrastructure Investor Newsletter",conv:"3%",desc:"Gesponserte Case-Studies und Benchmark-Reports in II-Newsletter"},
               {ch:"Partnership: Placement Agents",conv:"8%",desc:"Co-Marketing mit Threadmark, MVision, Campbell Lutyens"},
             ].map(c=>(
@@ -555,11 +790,11 @@ function ScaleBox() {
           </div>
           <div>
             <div className="card" style={{marginBottom:16}}>
-              <div className="card-label">NÃ¤chste 3 Aktionen (sofort)</div>
+              <div className="card-label">Nächste 3 Aktionen (sofort)</div>
               {[
-                {n:"1",action:"infrasignal.ch Domain kaufen + Railway-Dashboard Ã¶ffentlich schalten",time:"Diese Woche"},
+                {n:"1",action:"infrasignal.ch Domain kaufen + Railway-Dashboard öffentlich schalten",time:"Diese Woche"},
                 {n:"2",action:"Liste: 15 GP Research Leads auf LinkedIn identifizieren + Outreach-Template",time:"KW 13"},
-                {n:"3",action:"Outreach-Template schreiben: 'Ich arbeite an einem Bloomberg fÃ¼r Infra-GPs'",time:"KW 13"},
+                {n:"3",action:"Outreach-Template schreiben: 'Ich arbeite an einem Bloomberg für Infra-GPs'",time:"KW 13"},
               ].map(a=>(
                 <div key={a.n} style={{display:"flex",gap:14,padding:"12px 0",borderBottom:"1px solid var(--border2)"}}>
                   <div style={{width:24,height:24,background:"var(--gold)",borderRadius:"50%",display:"flex",alignItems:"center",justifyContent:"center",color:"white",fontSize:11,fontWeight:600,flexShrink:0}}>{a.n}</div>
@@ -585,14 +820,14 @@ function ScaleBox() {
       <div className="section">
         <div className="section-header">
           <div className="section-title">Erfolgsmetriken</div>
-          <span className="section-tag tag-blue">OKRs Â· KPIs</span>
+          <span className="section-tag tag-blue">OKRs · KPIs</span>
         </div>
         <div className="g4">
           {[
-            {phase:"Validate (60d)",metrics:[{k:"Discovery Calls",v:"â¥10"},{k:"WTP confirmed",v:"â¥3 GPs"},{k:"Survey responses",v:"â¥50"},{k:"Waitlist Sign-ups",v:"â¥30"}]},
-            {phase:"Pilot (90d)",metrics:[{k:"Paid Pilots",v:"3"},{k:"NPS Score",v:"â¥40"},{k:"Data accuracy",v:"â¥90%"},{k:"Renewal intent",v:"â¥2"}]},
-            {phase:"PMF (180d)",metrics:[{k:"Paying Customers",v:"â¥8"},{k:"Churn",v:"v10%"},{k:"MRR",v:"CHF 12k"},{k:"NPS",v:"â¥50"}]},
-            {phase:"Scale (12Mo)",metrics:[{k:"Customers",v:"30+"},{k:"ARR",v:"CHF 230k"},{k:"NPS",v:"â¥55"},{k:"Employees",v:"3"}]},
+            {phase:"Validate (60d)",metrics:[{k:"Discovery Calls",v:"≥10"},{k:"WTP confirmed",v:"≥3 GPs"},{k:"Survey responses",v:"≥50"},{k:"Waitlist Sign-ups",v:"≥30"}]},
+            {phase:"Pilot (90d)",metrics:[{k:"Paid Pilots",v:"3"},{k:"NPS Score",v:"≥40"},{k:"Data accuracy",v:"≥90%"},{k:"Renewal intent",v:"≥2"}]},
+            {phase:"PMF (180d)",metrics:[{k:"Paying Customers",v:"≥8"},{k:"Churn",v:"<10%"},{k:"MRR",v:"CHF 12k"},{k:"NPS",v:"≥50"}]},
+            {phase:"Scale (12Mo)",metrics:[{k:"Customers",v:"30+"},{k:"ARR",v:"CHF 230k"},{k:"NPS",v:"≥55"},{k:"Employees",v:"3"}]},
           ].map(g=>(
             <div key={g.phase} className="card-sm">
               <div className="card-label">{g.phase}</div>
@@ -611,7 +846,7 @@ function ScaleBox() {
   );
 }
 
-// ââ MAIN ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ── MAIN ──────────────────────────────────────────────────────────
 export default function App() {
   const [stage, setStage] = useState("red");
   return (
@@ -619,11 +854,11 @@ export default function App() {
       <style>{CSS}</style>
       <div className="wrap">
         <div className="header">
-          <div className="eyebrow">Kickbox Innovation Canvas Â· Reichmuth &amp; Co</div>
+          <div className="eyebrow">Kickbox Innovation Canvas · Reichmuth &amp; Co</div>
           <h1 className="h1">InfraSignal<br/><em>Infrastructure Intelligence as a Service</em></h1>
           <div className="subtitle">
             Transformation der GP-Competitor-Universe-Datenbank in ein monetarisierbares SaaS-Produkt
-            fÃ¼r Infrastructure Private Markets â validiert nach der Xerox Kickbox Methodik
+            für Infrastructure Private Markets – validiert nach der Xerox Kickbox Methodik
           </div>
           <div className="header-meta">
             {[
@@ -631,7 +866,7 @@ export default function App() {
               ["Methode","Xerox Kickbox (4-Box)"],
               ["TAM","~2.400 Infra GPs + LPs weltweit"],
               ["Entry Price","CHF 490 / Monat"],
-              ["MVP Status","Railway DB live â"],
+              ["MVP Status","Railway DB live ✓"],
             ].map(([k,v])=>(
               <div key={k} className="meta-item"><div className="meta-dot"/><span className="mono-sm">{k}: {v}</span></div>
             ))}
